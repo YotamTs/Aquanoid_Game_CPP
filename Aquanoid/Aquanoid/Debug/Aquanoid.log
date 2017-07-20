@@ -1,0 +1,24 @@
+﻿Build started 25/06/2015 18:03:46.
+     1>Project "C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Aquanoid\Aquanoid.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Board.cpp Brick.cpp Controller.cpp Gift.cpp main.cpp
+         Board.cpp
+         Generating Code...
+         Skipping... (no relevant changes detected)
+         main.cpp
+         Gift.cpp
+         Controller.cpp
+         Brick.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Debug\Aquanoid.exe" /INCREMENTAL /NOLOGO "sfml-graphics-d.lib" "sfml-system-d.lib" "sfml-main-d.lib" "sfml-window-d.lib" "sfml-audio-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Debug\Aquanoid.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Debug\Aquanoid.lib" /MACHINE:X86 Debug\Board.obj
+         Debug\Brick.obj
+         Debug\Controller.obj
+         Debug\Gift.obj
+         Debug\Level.obj
+         Debug\main.obj
+         Aquanoid.vcxproj -> C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Debug\Aquanoid.exe
+     1>Done Building Project "C:\Users\Yotam\Documents\Visual Studio 2013\Projects\Aquanoid\Aquanoid\Aquanoid.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.18

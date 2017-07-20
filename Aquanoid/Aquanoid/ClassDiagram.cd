@@ -1,0 +1,193 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="BadGift" Collapsed="true">
+    <Position X="12.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAACAAACAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BadGift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ball" Collapsed="true">
+    <Position X="1" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAAIAgAgAIABAAAABIAAAACCIAEAAAACEBIAAMAAIA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board" Collapsed="true">
+    <Position X="19.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAIAQAAAAAAAIAAAABCAAAAAAAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Brick" Collapsed="true">
+    <Position X="5.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgBAAAEQAARIDAEAACMAEAAAAAAAABgAAAAQ=</HashCode>
+      <FileName>Brick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Controller" Collapsed="true">
+    <Position X="21" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAgAABBAQAiJgAAcCgZCIIECoAAQRAABDAagBAIABA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ExplodingBrick" Collapsed="true">
+    <Position X="7.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAgAEAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ExplodingBrick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject" Collapsed="true">
+    <Position X="8.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ARAAAABAAAAAAAAAAAIAAAAAAAAEAAAAAAEAAAIAAAA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameOverScreen" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GameOverScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Gift" Collapsed="true">
+    <Position X="14.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAACACAAAIAAAAAEAAEAAAAAAAEAhAAAAA=</HashCode>
+      <FileName>Gift.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiftBrick" Collapsed="true">
+    <Position X="3.25" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAAAAAABAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftBrick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiftFlying" Collapsed="true">
+    <Position X="14.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAIAAAAAAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftFlying.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HelpScreen" Collapsed="true">
+    <Position X="2.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HelpScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Level" Collapsed="true">
+    <Position X="22.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAEAAAAAAAAABAAEAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GiftBigger" Collapsed="true">
+    <Position X="16.75" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAAAAAAAAAAABAAAAAAAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>GiftBigger.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MyException" Collapsed="true">
+    <Position X="19.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAAAAAAAAQAABAAAAEAAAAA=</HashCode>
+      <FileName>MyException.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Paddle" Collapsed="true">
+    <Position X="10" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAIAAAAAAAAEAAABIAAAACQhAkAAACCAAAAgAAAAI=</HashCode>
+      <FileName>Paddle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Screen" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAAAAAAAAAAAAABAIAAAAAAAAAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>Screen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnbreakableBrick" Collapsed="true">
+    <Position X="5.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAMAAAAAECAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UnbreakableBrick.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WelcomeScreen" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAEAAAAAAgAAAAAAAAAAAAABAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>WelcomeScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WinGameScreen" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAQAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>WinGameScreen.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="ballType_t" Collapsed="true">
+    <Position X="19.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAQABEAAAAAAAAA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="game_state_t" Collapsed="true">
+    <Position X="21" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAACCAAAACAAAAAAAAAAAAAAAAAAAAgAAABAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="GIFT_t" Collapsed="true">
+    <Position X="22.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAAAAAAAEAIgAAAAAAABAAAAA=</HashCode>
+      <FileName>Controller.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="texture_t" Collapsed="true">
+    <Position X="19.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAEAAAAQAAAAAAAAAAAAAACAAAwAgAAAAACAgAAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="level_t" Collapsed="true">
+    <Position X="19.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAgAAAAAAAABAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="sound_t" Collapsed="true">
+    <Position X="22.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAABAAAAAAAAIAAAAABAAAAAAACAAEAgAQAAAAAAAAA=</HashCode>
+      <FileName>Level.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="paddleType_t" Collapsed="true">
+    <Position X="21" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Paddle.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
